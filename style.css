@@ -1,0 +1,101 @@
+input {
+  background-color: #EAF8BF;
+  color: black;
+  border: none;
+  outline: none;
+  border-bottom: 1px solid #EAF8BF;
+  width: 80%;
+  margin-left: 10%;
+  margin-right: 10%;
+  text-align: center;
+}
+
+body {
+  background-color: #EAF8BF;
+}
+
+img {
+  height: 400px;
+}
+
+#tokyo {
+  background-image: url("assets/tokyo.jpeg");
+}
+
+#delhi {
+  background-image: url("assets/delhi.jpeg");
+}
+
+#shanghai {
+  background-image: url("assets/shanghai.jpeg");
+}
+
+#saopaolo {
+  background-image: url("assets/sao-paolo.jpeg");
+}
+
+#mexicocity {
+  background-image: url("assets/mexico-city.jpeg");
+}
+
+#cairo {
+  background-image: url("assets/cairo.jpeg");
+}
+
+#dhaka {
+  background-image: url("assets/dhaka.jpeg");
+}
+
+#tokyo {
+  background-image: url("assets/tokyo.jpeg");
+}
+
+#mumbai {
+  background-image: url("assets/mumbai.jpeg");
+}
+
+#beijing {
+  background-image: url("assets/beijing.jpeg");
+}
+
+#osaka {
+  background-image: url("assets/osaka.jpeg");
+}
+
+.city, .population {
+  font-family: 'Quicksand', sans-serif;
+}
+
+.city {
+  font-weight: 600;
+}
+
+.population {
+  font-weight: 300;
+}
+
+#quizTitle {
+  text-align: center;
+  color: #27476E;
+  font-family: "Quicksand", sans-serif;
+  -webkit-text-fill-color: black; 
+  -webkit-text-stroke-width: 2px;
+  -webkit-text-stroke-color: #27476E;
+  margin-top: 75px;
+  margin-bottom: 75px;
+}
+
+#textBox {
+  text-align: center;
+  margin-top: 25px;
+  margin-bottom: 25px;
+  color: white;
+}
+
+#message {
+  color: black;
+  padding-top: 25px;
+  padding-bottom: 25px;
+  text-align: center;
+}
+
